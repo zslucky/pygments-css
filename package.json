@@ -1,6 +1,6 @@
 {
   "name": "pygments-rouge-css",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "CSS stylesheets for pygments and also rouge",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
     "pygments",
     "rouge",
     "css",
-    "syntax"
+    "syntax",
     "highlighting"
   ],
   "license": "MIT",
