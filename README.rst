@@ -11,19 +11,20 @@ To preview the various themes, check out http://richleland.github.io/pygments-cs
 Usage
 --------------
 
-With `npm`
+use `npm`
+
 ```bash
 npm i pygments-rouge-css --save
 ```
 
 Or use `bower`
 
-With `npm`
 ```bash
 bower install pygments-rouge-css --save
 ```
 
 Or use `yarn`
+
 ```bash
 yarn add pygments-rouge-css
 ```
